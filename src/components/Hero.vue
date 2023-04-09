@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="hero min-h-screen" style="background-image: url(/src/assets/skyline.jpg);">
+    <div class="hero min-h-screen" style="background-image: url('/src/assets/skyline.jpg');">
         <div class="hero-overlay bg-opacity-30"></div>
         <div class="hero-content text-center text-neutral-content mt-96">
             <div class="max-w-md">
