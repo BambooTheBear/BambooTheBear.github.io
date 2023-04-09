@@ -13,7 +13,7 @@ import Hero from './components/Hero.vue'
   </header>
 
   <body>
-    <div class="p-10">
+    <div class="lg:p-10 p-2">
       <Hero></Hero>
       <div class="divider py-6" id="AboutMe"></div>
       <HelloWorld />

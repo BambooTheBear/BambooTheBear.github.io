@@ -25,7 +25,7 @@
       <div class="w-full lg:w-1/3 flex flex-col items-center justify-center bg-primary rounded-3xl min-w-fit">
         <h1 class="text-5xl py-2">Benno Kolar</h1>
         <img src="\src\assets\panda-icon.png">
-        <div class="grid grid-cols-2 gap-2">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
           <div class="bg-base-100 rounded-xl text-lg w-52 text-center p-2 my-2 mx-2"> Munich, Germany</div>
           <div class="bg-base-100 rounded-xl text-lg w-52 text-center p-2 my-2 mx-2"> bennokolar@gmail.com</div>
           <div class="bg-base-100 rounded-xl text-lg w-52 text-center p-2 my-2 mx-2"> 1. Sep 2006</div>
