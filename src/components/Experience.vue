@@ -7,7 +7,7 @@
     <div class="flex-wrap flex items-center justify-center ">
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-blue-700 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-24 h-24" src="src\assets\python_icon.png" />
+                <img class="rounded-lg w-24 h-24" src="\src\assets\python_icon.png" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="100" max="100"></progress>
             <div class="card-body text-xl">
@@ -20,7 +20,7 @@
         </div>
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-red-600 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-24 h-24" src="src\assets\java-logo.png" />
+                <img class="rounded-lg w-24 h-24" src="\src\assets\java-logo.png" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="90" max="100"></progress>
             <div class="card-body text-xl">
@@ -33,7 +33,7 @@
         </div>
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-yellow-400 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-24 h-24" src="src\assets\JS-icon.png" />
+                <img class="rounded-lg w-24 h-24" src="\src\assets\JS-icon.png" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="90" max="100"></progress>
             <div class="card-body text-xl">
@@ -46,7 +46,7 @@
         </div>
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-cyan-400 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-24 h-24" src="src\assets\Tailwind_CSS_Logo.svg.png" />
+                <img class="rounded-lg w-24 h-24" src="\src\assets\Tailwind_CSS_Logo.svg.png" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="95" max="100"></progress>
             <div class="card-body text-xl">
@@ -60,7 +60,7 @@
         </div>
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-red-600 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-24 h-24" src="src\assets\angular_logo.png" />
+                <img class="rounded-lg w-24 h-24" src="\src\assets\angular_logo.png" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="80" max="100"></progress>
             <div class="card-body text-xl">
@@ -75,7 +75,7 @@
         </div>
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-emerald-500 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-24 h-24" src="src\assets\vue.svg" />
+                <img class="rounded-lg w-24 h-24" src="\src\assets\vue.svg" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="90" max="100"></progress>
             <div class="card-body text-xl">
@@ -89,7 +89,7 @@
         </div>
         <div class="card bg-base-100 shadow-xl lg:w-1/5 w-2/3 hover:shadow-cyan-300 hover:scale-110 m-8">
             <figure class="pt-2">
-                <img class="rounded-lg w-56 h-24" src="src\assets\goLogo.png" />
+                <img class="rounded-lg w-56 h-24" src="\src\assets\goLogo.png" />
             </figure>
             <progress class="progress progress-primary w-56 self-center mt-6" value="70" max="100"></progress>
             <div class="card-body text-xl">

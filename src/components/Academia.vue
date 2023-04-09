@@ -7,7 +7,7 @@
         <div class="card lg:card-side bg-base-100 shadow-xl">
             <figure>
                 <div class="flex items-center justify-center"><img class="rounded-lg"
-                        src="src\assets\Lion-Feuchtwanger-Gymnasium_-_1.jpg" />
+                        src="\src\assets\Lion-Feuchtwanger-Gymnasium_-_1.jpg" />
                 </div>
             </figure>
             <div class="card-body">
@@ -33,7 +33,7 @@
                     completing a total of 5 modules in 2 years, including "EIDI"(1,7); "PGDP"(2,0) and "EIST"(1,0)</p>
             </div>
             <figure>
-                <div class="flex items-center justify-center"><img class="rounded-lg" src="src\assets\TUM-Logo.png" />
+                <div class="flex items-center justify-center"><img class="rounded-lg" src="\src\assets\TUM-Logo.png" />
                 </div>
             </figure>
         </div>

@@ -60,7 +60,7 @@
             </div>
             <div class="tooltip tooltip-bottom px-2 text-center" data-tip="Github">
                 <a href="https://github.com/BambooTheBear" target="_blank">
-                    <button class="btn-primary btn-circle"><img src="src\assets\github-icon.png">
+                    <button class="btn-primary btn-circle"><img src="\src\assets\github-icon.png">
                     </button>
                 </a>
             </div>
