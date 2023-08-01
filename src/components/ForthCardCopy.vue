@@ -1,30 +1,28 @@
 <script></script>
 <template>
     <div
-        class="h-64 w-44 flex items-center justify-start flex-col bg-gradient-to-b to-[#176969] from-[#25a7a7] rounded-xl overflow-hidden text-slate-900">
-        <img src="src\assets\TUM-Logo.png">
+        class="h-64 w-44 flex items-center justify-start flex-col bg-gradient-to-b to-violet-700 from-purple-500 rounded-xl text-slate-900 p-4">
+        <img src="src\assets\Logo_CHECK24.png">
         <div class="p-2 text-sm tracking-tighter ">
-            <p>University since 14 yo.</p>
-            <p>Simultaneously to school</p>
+            <p>1-year Scholarship</p>
+            <p>1-week Internship</p>
         </div>
-        <div class="grid grid-cols-3 grid-rows-2">
-            <div class="scale-125 tooltip" data-tip="EIST"><img class="scale-50" src="../assets/scrum_5266167.png"></div>
-            <div class="scale-125 flex items-center justify-center tooltip" data-tip="GDB"><span
-                    class="material-symbols-outlined">
-                    save
-                </span></div>
-            <div class="scale-125 tooltip flex items-center justify-center" data-tip="EIDI"><span
-                    class="material-symbols-outlined">
-                    memory
-                </span></div>
-            <div class="text-lg flex items-start justify-center">
-                <p class="font-bold bottom-4 absolute">1,0</p>
+        <div class="tooltip" data-tip="Worked with GoLang"><img class="scale-75" src="../assets/goLogo.png"></div>
+        <div class="w-full h-full grid grid-cols-3 text-slate-200">
+            <div class="h-full w-full flex items-center justify-center tooltip" data-tip="Projects">
+                <span class="material-symbols-outlined">
+                    diversity_3
+                </span>
             </div>
-            <div class="text-lg flex items-start justify-center">
-                <p class="font-bold bottom-4 absolute">1,4</p>
+            <div class="h-full w-full flex items-center justify-center tooltip" data-tip="Mentorship">
+                <span class="material-symbols-outlined">
+                    cheer
+                </span>
             </div>
-            <div class="text-lg flex items-start justify-center">
-                <p class="font-bold bottom-4 absolute">1,7</p>
+            <div class="h-full w-full flex items-center justify-center tooltip" data-tip="Monetary Aid">
+                <span class="material-symbols-outlined">
+                    payments
+                </span>
             </div>
         </div>
     </div>

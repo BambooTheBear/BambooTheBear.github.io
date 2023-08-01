@@ -34,7 +34,7 @@ import ForthCardCopy from './ForthCardCopy.vue'
             <div
                 class="w-12 h-12 bg-purple-700 rounded-lg absolute group-hover:bottom-[350px] group-hover:left-[50px] left-28 bottom-20 z-20 flex item justify-center items-center transition-all duration-500 ease-in-out group-hover:-rotate-[33deg]">
                 <span class="material-symbols-outlined scale-[2]">
-                    javascript
+                    workspace_premium
                 </span>
             </div>
             <div
