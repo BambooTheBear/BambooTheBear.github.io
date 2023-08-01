@@ -2,7 +2,7 @@
 <template>
     <div
         class="h-64 w-44 flex items-center justify-start flex-col bg-gradient-to-b to-[#176969] from-[#25a7a7] rounded-xl overflow-hidden text-slate-900">
-        <img src="src\assets\TUM-Logo.png">
+        <img src="..\assets\TUM-Logo.png">
         <div class="p-2 text-sm tracking-tighter ">
             <p>University since 14 yo.</p>
             <p>Simultaneously to school</p>

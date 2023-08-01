@@ -20,7 +20,7 @@
             </div>
             <div class="h-full w-full relative items-center justify-center tooltip" data-tip="Bavaria">
                 <img class="absolute top-[-24] scale-50" width="128" height="128" decoding="async"
-                    src="src\assets\poland_900044.png">
+                    src="..\assets\poland_900044.png">
             </div>
             <div class="h-full w-full flex items-center justify-center text-base-100 tooltip scale-90"
                 data-tip="Documents🔗"><a class="material-symbols-outlined scale-125" href="https://g.co">

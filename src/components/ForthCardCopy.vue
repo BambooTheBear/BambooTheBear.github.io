@@ -2,7 +2,7 @@
 <template>
     <div
         class="h-64 w-44 flex items-center justify-start flex-col bg-gradient-to-b to-violet-700 from-purple-500 rounded-xl text-slate-900 p-4">
-        <img src="src\assets\Logo_CHECK24.png">
+        <img src="..\assets\Logo_CHECK24.png">
         <div class="p-2 text-sm tracking-tighter ">
             <p>1-year Scholarship</p>
             <p>1-week Internship</p>

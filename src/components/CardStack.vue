@@ -19,7 +19,7 @@ import ImageCard from './ImageCard.vue'
             </ImageCard>
             <div
                 class="w-12 h-12 bg-cyan-500 rounded-lg absolute group-hover:bottom-72 group-hover:left-[300px] left-28 bottom-20 z-20 flex item justify-center transition-all duration-500 ease-in-out group-hover:rotate-45">
-                <img src="src/assets/a_plus_icon_132650.png" class="scale-75">
+                <img src="../assets/a_plus_icon_132650.png" class="scale-75">
             </div>
             <div
                 class="w-12 h-12 bg-sky-700 rounded-lg absolute group-hover:bottom-[350px] group-hover:left-[50px] left-28 bottom-20 z-20 flex item justify-center items-center transition-all duration-500 ease-in-out group-hover:-rotate-[33deg]">
